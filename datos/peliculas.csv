@@ -1,0 +1,61 @@
+id;titulo;duracion_minutos;genero;edad_minima
+1;La última estación;93;Comedia;7
+2;Horizonte de cristal;102;Ciencia ficción;18
+3;Noche de verano;160;Comedia;0
+4;Código Boreal;149;Aventura;18
+5;El eco del invierno;147;Thriller;7
+6;Órbita 7;139;Ciencia ficción;12
+7;La ciudad sumergida;164;Comedia;12
+8;Sombras en la costa;123;Romance;12
+9;Proyecto Ícaro;140;Ciencia ficción;7
+10;Tiempo prestado;149;Thriller;0
+11;Kilómetro cero;91;Aventura;7
+12;El jardín imposible;148;Romance;7
+13;Ruta 19;96;Animación;12
+14;Los días de mercurio;87;Thriller;16
+15;Bajo la lluvia;98;Ciencia ficción;18
+16;Punto de fuga;118;Aventura;0
+17;Memoria azul;155;Thriller;12
+18;La quinta puerta;108;Animación;7
+19;Ceniza y sal;143;Drama;18
+20;El mapa de nadie;145;Comedia;0
+21;Después del ruido;99;Thriller;16
+22;La línea roja;95;Thriller;18
+23;Vértigo blanco;126;Comedia;7
+24;Mar de fondo;165;Terror;0
+25;Un lugar al norte;89;Ciencia ficción;7
+26;Constelación;147;Animación;0
+27;La llamada del bosque;127;Aventura;18
+28;Distrito 11;110;Terror;18
+29;Frontera de hielo;139;Romance;18
+30;El último pasajero;127;Animación;7
+31;La habitación 204;143;Thriller;18
+32;Atlas;94;Thriller;18
+33;El peso del agua;157;Aventura;16
+34;Los ausentes;89;Terror;12
+35;Inercia;129;Aventura;18
+36;Código Delta;153;Terror;16
+37;El tercer amanecer;97;Aventura;18
+38;La isla gris;117;Comedia;0
+39;Sin señal;126;Terror;18
+40;Luz de emergencia;126;Ciencia ficción;7
+41;Siete minutos;117;Comedia;12
+42;El otro lado;134;Romance;0
+43;Nómadas;106;Drama;16
+44;Papel mojado;107;Romance;7
+45;Medianoche en Lisboa;128;Drama;16
+46;Archivo 32;111;Animación;0
+47;La casa del acantilado;154;Animación;7
+48;Fase Lunar;131;Animación;18
+49;El corredor;93;Animación;16
+50;Zona Cero;103;Thriller;18
+51;El visitante;90;Romance;0
+52;Fuego lento;119;Comedia;16
+53;Una mañana cualquiera;144;Romance;18
+54;El espejo negro;89;Aventura;18
+55;Turno de noche;155;Thriller;7
+56;Kilómetro 84;138;Aventura;12
+57;La ruta del viento;136;Drama;0
+58;Bajo cero;84;Drama;18
+59;Una historia mínima;141;Comedia;0
+60;Fin de trayecto;159;Aventura;7

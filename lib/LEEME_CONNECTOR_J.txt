@@ -1,0 +1,3 @@
+Para la parte JDBC necesitas MySQL Connector/J en el Build Path de Eclipse.
+Utiliza el mismo Connector/J empleado durante las prácticas de clase.
+El JAR no se incluye en este paquete.

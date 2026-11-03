@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<salas>
+  <sala id="1">
+    <nombre>Sala 1</nombre>
+    <filas>12</filas>
+    <asientosPorFila>18</asientosPorFila>
+    <tipo>ESTANDAR</tipo>
+  </sala>
+  <sala id="2">
+    <nombre>Sala 2</nombre>
+    <filas>10</filas>
+    <asientosPorFila>16</asientosPorFila>
+    <tipo>ESTANDAR</tipo>
+  </sala>
+  <sala id="3">
+    <nombre>Sala 3</nombre>
+    <filas>14</filas>
+    <asientosPorFila>20</asientosPorFila>
+    <tipo>ESTANDAR</tipo>
+  </sala>
+  <sala id="4">
+    <nombre>Sala 4</nombre>
+    <filas>8</filas>
+    <asientosPorFila>14</asientosPorFila>
+    <tipo>VIP</tipo>
+  </sala>
+  <sala id="5">
+    <nombre>Sala 5</nombre>
+    <filas>11</filas>
+    <asientosPorFila>18</asientosPorFila>
+    <tipo>ESTANDAR</tipo>
+  </sala>
+  <sala id="6">
+    <nombre>Sala 6</nombre>
+    <filas>9</filas>
+    <asientosPorFila>16</asientosPorFila>
+    <tipo>3D</tipo>
+  </sala>
+  <sala id="7">
+    <nombre>Sala 7</nombre>
+    <filas>12</filas>
+    <asientosPorFila>16</asientosPorFila>
+    <tipo>IMAX</tipo>
+  </sala>
+  <sala id="8">
+    <nombre>Sala 8</nombre>
+    <filas>7</filas>
+    <asientosPorFila>12</asientosPorFila>
+    <tipo>VIP</tipo>
+  </sala>
+</salas>
