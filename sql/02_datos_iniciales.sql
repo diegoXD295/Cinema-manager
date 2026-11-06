@@ -1,6 +1,6 @@
 USE cinema_manager;
+START TRANSACTION;
 
--- Sesiones iniciales
 INSERT INTO sesiones(id,pelicula_id,sala_id,fecha_hora,precio,plazas_disponibles) VALUES (1,4,1,'2026-11-09 17:00:00',9.75,195);
 INSERT INTO sesiones(id,pelicula_id,sala_id,fecha_hora,precio,plazas_disponibles) VALUES (2,9,1,'2026-11-09 19:00:00',9.75,176);
 INSERT INTO sesiones(id,pelicula_id,sala_id,fecha_hora,precio,plazas_disponibles) VALUES (3,14,1,'2026-11-09 21:00:00',9.75,155);
@@ -194,7 +194,6 @@ INSERT INTO sesiones(id,pelicula_id,sala_id,fecha_hora,precio,plazas_disponibles
 INSERT INTO sesiones(id,pelicula_id,sala_id,fecha_hora,precio,plazas_disponibles) VALUES (191,19,8,'2026-11-16 18:00:00',8.50,62);
 INSERT INTO sesiones(id,pelicula_id,sala_id,fecha_hora,precio,plazas_disponibles) VALUES (192,24,8,'2026-11-16 20:00:00',8.50,42);
 
--- Ventas y entradas históricas anónimas para disponer de datos de prueba
 INSERT INTO ventas(id,cliente_id,sesion_id,fecha,total) VALUES (1,NULL,184,'2026-11-16 13:33:00',55.00);
 INSERT INTO entradas(id,venta_id,sesion_id,asiento,precio) VALUES (1,1,184,'D10',11.00);
 INSERT INTO entradas(id,venta_id,sesion_id,asiento,precio) VALUES (2,1,184,'A10',11.00);
@@ -348,3 +347,4 @@ INSERT INTO ventas(id,cliente_id,sesion_id,fecha,total) VALUES (39,NULL,130,'202
 INSERT INTO entradas(id,venta_id,sesion_id,asiento,precio) VALUES (112,39,130,'G06',8.50);
 INSERT INTO ventas(id,cliente_id,sesion_id,fecha,total) VALUES (40,NULL,88,'2026-11-12 14:34:00',11.00);
 INSERT INTO entradas(id,venta_id,sesion_id,asiento,precio) VALUES (113,40,88,'C15',11.00);
+COMMIT;
